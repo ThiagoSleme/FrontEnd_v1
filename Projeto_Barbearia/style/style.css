@@ -1,9 +1,11 @@
-body {
-    background: #CCCCCC;
-}
 
 #barbearia{
     width: 100%;
+}
+
+.DivPrincipal{
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 h1{
@@ -20,5 +22,29 @@ p{
 
 em strong{
     color: #FF0000;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.DivBeneficios{
+    background: white;
+    padding:  20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align:  top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemBeneficios{
+    width: 50%;
 }
 
