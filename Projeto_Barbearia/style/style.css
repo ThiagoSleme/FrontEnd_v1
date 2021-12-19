@@ -1,4 +1,6 @@
-
+.titulo-principal{
+    padding-left: 20px;
+}
 #barbearia{
     width: 100%;
 }
@@ -8,7 +10,7 @@
     padding: 30px;
 }
 
-h1{
+.centralizado{
     text-align: center;
 }
 
@@ -33,9 +35,6 @@ em strong{
     padding:  20px;
 }
 
-h2{
-    text-align: center;
-}
 
 ul{
     display: inline-block;
